@@ -115,4 +115,12 @@ body p a:visited { color: #333333; }
   text-align: center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  line-height: 1em;
+  line-height: 1;
+}
+.cd{
+  font-style: italic;
+}
+.artist{
+  font-weight: bold;
 }
