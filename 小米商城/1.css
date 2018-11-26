@@ -1,4 +1,4 @@
-#tobar{
+#footer{
    color: #b0b0b0;
    line-height: 40px;
    display: inline-block;
@@ -11,11 +11,12 @@
    color: #b0b0b0;
    background: #424242;   
 }
-#train{
+#main{
     padding: 0.5px;
     text-align: center;
     color: #b0b0b0;
     line-height: 40px;
     display: inline-block;
 }
+
     
